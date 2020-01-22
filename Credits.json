@@ -1,0 +1,18 @@
+{
+    "0": {
+        "Name": "BlueHeart",
+        "BiliBiliName": "BlueHeart-Frisk",
+        "BiliBiliURL": "https://space.bilibili.com/20661609",
+        "Credits": {
+            "0": "Client By BlueHeart"
+        }
+    },
+    "1": {
+        "Name": "Colds",
+        "BiliBiliName": "Colds",
+        "QQ": "1352641460",
+        "Credits": {
+            "0": "ClickGUI Color"
+        }
+    }
+}
